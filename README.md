@@ -4,7 +4,7 @@ Proyecto de Graduación 2025 - Carnet: 21053
 # Entrenamiento de un agente artificial en un entorno dinámico controlado por el jugador, utilizando aprendizaje por refuerzo en Unity
 
 ## Descripción
-MazeMaster AI es un proyecto de juego híbrido desarrollado en Unity que permite a los usuarios diseñar entornos dinámicos (laberintos con obstáculos, enemigos y elementos interactivos) para entrenar un agente de inteligencia artificial mediante aprendizaje por refuerzo (RL). El problema que resuelve es la brecha entre la edición creativa de niveles y el entrenamiento autónomo de IA, permitiendo a los jugadores iterar diseños mientras la IA aprende a navegar, resolver puzzles y combatir, con el objetivo de demostrar viabilidad de RL en entornos controlados por el usuario.
+Este es un proyecto de juego híbrido desarrollado en Unity que permite a los usuarios diseñar entornos dinámicos (laberintos con obstáculos, enemigos y elementos interactivos) para entrenar un agente de inteligencia artificial mediante aprendizaje por refuerzo (RL). El problema que resuelve es la brecha entre la edición creativa de niveles y el entrenamiento autónomo de IA, permitiendo a los jugadores iterar diseños mientras la IA aprende a navegar, resolver puzzles y combatir, con el objetivo de demostrar viabilidad de RL en entornos controlados por el usuario.
 
 ## Tecnologías Utilizadas
 - Unity (versión 2022+ para compatibilidad con ML-Agents)
